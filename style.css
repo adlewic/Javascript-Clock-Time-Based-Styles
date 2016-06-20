@@ -1,0 +1,35 @@
+
+#digitalclock{
+	width: 50%;
+	height: 500px;
+	border: 1px solid  #ccc;
+	height: 200px;
+	margin-left: 25%;
+	margin-top: 17%;
+}
+
+
+.N{
+	float: left;
+	text-align: center;
+	/*background-color: #ccc;*/
+	font-family: "Aaux Prolight";
+	font-size:12vw;
+	width: 27%;
+}
+
+
+#seconds{
+
+	color: #ccc;
+}
+
+
+span{
+	float: left;
+	padding-top: 30px;
+	padding-right: 10px;
+	text-align: center;
+	font-size:12vw;
+
+}
