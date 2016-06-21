@@ -1,13 +1,27 @@
-
 #digitalclock{
 	width: 50%;
-	height: 500px;
-	border: 1px solid  #ccc;
+	border-top: 2px solid  #ccc;
 	height: 200px;
 	margin-left: 25%;
-	margin-top: 17%;
+	margin-top: 10%;
+	padding-top: 20px;
+	background-color: #fff;
 }
 
+
+
+#text{
+	width: 50%;
+	height: 20px;
+	/*border: 1px solid  #ccc;*/
+	padding-top: 60px;
+	
+	margin-left: 25%;
+	/*background-color: #fff;	*/
+	font-family: "Aaux Prolight";
+	font-size:60px;
+	text-align: center;
+}
 
 .N{
 	float: left;
@@ -20,7 +34,6 @@
 
 
 #seconds{
-
 	color: #ccc;
 }
 
